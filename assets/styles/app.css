@@ -12,7 +12,7 @@ h2 {
 }
 
 progress {
-  -webkit-appearance: none;
+  -webkit-appearance: none; 
   -moz-appearance: none;
   appearance: none;
   width: 80%;
